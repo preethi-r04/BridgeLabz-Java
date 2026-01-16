@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C2DTo1D {
+public class Convert2DArrayTo1D {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
