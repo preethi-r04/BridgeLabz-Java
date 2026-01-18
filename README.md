@@ -1,3 +1,5 @@
+#BridgeLaz-Java
+Daily Logs
 08-Dec-2025: Installed IntelliJ IDEA and set up the Java development environment.
 
 09-Dec-2025: Started learning basic Git commands.
