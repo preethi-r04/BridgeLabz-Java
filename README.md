@@ -1,4 +1,4 @@
-# BridgeLaz-Java
+# BridgeLabz-Java
 
 ## Daily Logs
 
