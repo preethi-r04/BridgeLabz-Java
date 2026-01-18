@@ -1,6 +1,6 @@
-##BridgeLaz-Java
+# BridgeLaz-Java
 
-Daily Logs
+## Daily Logs
 
 08-Dec-2025: Installed IntelliJ IDEA and set up the Java development environment.
 
