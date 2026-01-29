@@ -1,4 +1,4 @@
-package javagenerics;
+package javacollectionstreams.javagenerics;
 interface MealPlan {
     String getMealType();
 }

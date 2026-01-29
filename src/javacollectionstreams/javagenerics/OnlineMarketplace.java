@@ -1,4 +1,4 @@
-package javagenerics;
+package javacollectionstreams.javagenerics;
 
 abstract class Category {
     String name;
