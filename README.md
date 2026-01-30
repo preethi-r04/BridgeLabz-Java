@@ -2,36 +2,66 @@
 
 ## Daily Logs
 
-08-Dec-2025: Installed IntelliJ IDEA and set up the Java development environment.
+08-Dec-2025 (Monday): Installed and set up Notepad++, Eclipse, and JDK.
 
-09-Dec-2025: Started learning basic Git commands.
+09-Dec-2025 (Tuesday): Studied basics in Java.
 
-10–11 Dec-2025: Learned Java basics including syntax, variables, and data types.
+10-Dec-2025 (Wednesday): Started solving basic programs in Java.
 
-12–13 Dec-2025: Started working on programming elements and solved related problems.
+11-Dec-2025 (Thursday): Learnt about control statements in Java.
 
-15-Dec-2025: Studied and practiced control flow statements.
+12-Dec-2025 (Friday): Learnt about methods in java.
 
-16-Dec-2025: Learned and solved 1D array problems.
+13-Dec-2025 (Saturday): Started practicing programming problems in Java.
 
-17-Dec-2025: Learned and solved 2D array problems.
+15-Dec-2025 (Monday): Completed with practice problems on Java programming elements.
 
-18–19 Dec-2025: Studied methods and solved method-based programming problems.
+16-Dec-2025 (Tuesday): Completed with practice problems on Java control flow.
 
-20-Dec-2025: Learned strings and basic string operations.
+17-Dec-2025 (Wednesday): Completed with practice problems on Java arrays.
 
-22-Dec-2025: Studied built-in string methods.
+18-Dec-2025 (Thursday): Completed with practice problems on Java methods.
 
-23-Dec-2025: Practiced advanced and extra string-based problems.
+19-Dec-2025 (Friday): Completed with practice problems on Java strings.
 
-08-Jan-2026: Started learning Git Flow concepts and commands.
+20-Dec-2025 (Saturday): Completed with practice problems on Java built-in commands.
 
-09–10 Jan-2026: Worked hands-on with Git Flow branching and workflows.
+22-Dec-2025 (Monday): Completed with practice problems on Java strings extras.
 
-11-Jan-2026: Learned constructors.
+23-Dec-2025 (Tuesday): Completed with practice problems on Java basic OOPS.
 
-12-Jan-2026: Studied instance variables and static members.
+08-Jan-2026 (Thursday): Learnt about git flow commands.
 
-13-Jan-2026: Learned usage of this and final keywords.
+09-Jan-2026 (Friday): Made changes to git-hub repo using git flow commands.
 
-14–15 Jan-2026: Learned and practiced inheritance.
+10-Jan-2026 (Saturday): Completed with practice problems on Java class structure.
+
+12-Jan-2026 (Monday): Completed with practice problems on Java inheritance.
+
+13-Jan-2026 (Tuesday): Completed with practice problems on Java encapsulation.
+
+14-Jan-2026 (Wednesday): Started with data structures in Java and problems on linked-list.
+
+15-Jan-2026 (Thursady): Learnt data structures in Java and problems on linked-list.
+
+16-Jan-2026 (Friday): Worked on corrections provided for git-hub repo.
+
+17-Jan-2026 (Saturday): Started working on day 1 DSA practice problems.
+
+19-Jan-2026 (Monday): Started working on day 1 DSA remaining practice problems.
+
+20-Jan-2026 (Tuesday): Attended review for Java on OOPS concepts.
+
+21-Jan-2026 (Wednesday): Completed week 3 day 1 to day 3 practice problems.
+
+22-Jan-2026 (Thursday): Completed week 3 day 4 to day 6 practice problems.
+
+23-Jan-2026 (Friday): Completed creating and pusing coding files to the new repo OOPSBannerApp.
+
+24-Jan-2026 (Saturday): Added single and multiline commands to the code in OOPSBannerApp.
+
+27-Jan-2026 (Tuesday): Completed week 4 day 1 coding problems.
+
+28-Jan-2026 (Wednesday): Completed week 4 day 2 coding problems.
+
+29-Jan-2026 (Thursday): Started working on Console-Based Assignment Posted: Factory Robot Hazard Analyzer.
