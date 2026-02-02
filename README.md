@@ -65,3 +65,9 @@
 28-Jan-2026 (Wednesday): Completed week 4 day 2 coding problems.
 
 29-Jan-2026 (Thursday): Started working on Console-Based Assignment Posted: Factory Robot Hazard Analyzer.
+
+30-Jan-2026 (Friday): Gave my review for Data Structures and Algorithms (DSA).
+
+31-Jan-2026 (Saturday): Learnt about I/O Streams in Java.
+
+02-Feb-2026 (Monday): Completed programs on Java I/O Streams and started learning Exception Handling.
