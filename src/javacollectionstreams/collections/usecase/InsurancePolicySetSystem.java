@@ -2,14 +2,14 @@ package javacollectionstreams.collections.usecase;
 import java.util.*;
 import java.time.*;
 
-class Policy implements Comparable<Policy> {
+class Policy1 implements Comparable<Policy> {
     int policyNumber;
     String policyHolder;
     LocalDate expiryDate;
     String coverageType;
     double premium;
 
-    Policy(int policyNumber, String policyHolder, LocalDate expiryDate, String coverageType, double premium) {
+    Policy1(int policyNumber, String policyHolder, LocalDate expiryDate, String coverageType, double premium) {
         this.policyNumber = policyNumber;
         this.policyHolder = policyHolder;
         this.expiryDate = expiryDate;
