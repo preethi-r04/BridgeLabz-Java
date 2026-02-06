@@ -71,3 +71,9 @@
 31-Jan-2026 (Saturday): Learnt about I/O Streams in Java.
 
 02-Feb-2026 (Monday): Completed programs on Java I/O Streams and started learning Exception Handling.
+
+03-Feb-2026 (Tuesday): Completed the Consol-Based OceanFleet application.
+
+04-Feb-2026 (Wednesday): Learned and completed Regular Expressions (Regex) and JUnit.
+
+05-Feb-2026 (Thursday): Completed Java 8 features programs.
