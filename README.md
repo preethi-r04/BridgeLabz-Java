@@ -77,3 +77,23 @@
 04-Feb-2026 (Wednesday): Learned and completed Regular Expressions (Regex) and JUnit.
 
 05-Feb-2026 (Thursday): Completed Java 8 features programs.
+
+06-Feb-2026 (Friday): Completed Java 8 Stream API assignment.
+
+07-Feb-2026 (Saturday): Attended PowerSkill class.
+
+09-Feb-2026 (Monday): Gave review for Java Collections.
+
+10-Feb-2026 (Tuesday): Studied advanced Java 8 features.
+
+11-Feb-2026 (Wednesday): Learned CSV file handling in Java.
+
+12-Feb-2026 (Thursday): Completed console-based Lexical Twist puzzle.
+
+13-Feb-2026 (Friday): Studied Java 8 features in depth.
+
+14-Feb-2026 (Saturday): Attended PowerSkill class.
+
+16-Feb-2026 (Monday): Studied Trees and Graphs.
+
+17-Feb-2026 (Tuesday): Gave review for Regex and Java 8 features.
