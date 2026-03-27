@@ -92,8 +92,74 @@
 
 13-Feb-2026 (Friday): Studied Java 8 features in depth.
 
-14-Feb-2026 (Saturday): Attended PowerSkill class.
+14-Feb-2026 (Saturday): Absent due to attending review for final year project.
 
 16-Feb-2026 (Monday): Studied Trees and Graphs.
 
 17-Feb-2026 (Tuesday): Gave review for Regex and Java 8 features.
+
+18-Feb-2026 (Wednesday): Studied annotations, reflection concepts, and core design principles in Java.
+
+19-Feb-2026 (Thursday): Absent due to illness.
+
+20-Feb-2026 (Friday): Absent due to illness.
+
+21-Feb-2026 (Saturday): Absent due to illness.
+
+23-Feb-2026 (Monday): Initiated development of the Quantity Measurement application in a new repository named "QuantityMeasurementApp".
+
+24-Feb-2026 (Tuesday): Installed and configured MySQL database for backend integration.
+
+25-Feb-2026 (Wednesday): Attended review session and discussed progress and improvements.
+
+26-Feb-2026 (Thursday): Continued development of the Quantity Measurement application with core functionalities.
+
+27-Feb-2026 (Friday): Learned JDBC concepts and practiced database connectivity using Java.
+
+28-Feb-2026 (Saturday): Extended implementation of the Quantity Measurement application and updated repository code.
+
+02-Mar-2026 (Monday): Implemented weight measurement functionality in the Quantity Measurement application.
+
+03-Mar-2026 (Tuesday): Developed and completed UC5 and UC6 for the Quantity Measurement application.
+
+04-Mar-2026 (Wednesday): Implemented UC7 to UC10 for the Quantity Measurement application and updated the repository.
+
+05-Mar-2026 (Thursday): Completed UC11 and UC12 for the Quantity Measurement application with required validations.
+
+06-Mar-2026 (Friday): Implemented UC13 and UC14 for the Quantity Measurement application, enhancing features.
+
+07-Mar-2026 (Saturday): Attended PowerSkill session focused on adaptive learning during comprehensive training.
+
+09-Mar-2026 (Monday): Began learning Spring Boot framework and Tomcat server concepts.
+
+10-Mar-2026 (Tuesday): Completed Tomcat assignment and pushed the implementation to the "JavaBackend" repository.
+
+11-Mar-2026 (Wednesday): Completed Spring assignment and pushed the implementation to a GitHub repository named "SpringBootHelloApp".
+
+12-Mar-2026 (Thursday): Completed Spring REST API assignment and updated the "SpringBootHelloApp" repository.
+
+13-Mar-2026 (Friday): Completed additional Spring framework assignment and updated the "SpringBootHelloApp" repository.
+
+14-Mar-2026 (Saturday): Absent due to attending review for final year project.
+
+16-Mar-2026 (Monday): Attended review session for Spring Boot applications.
+
+17-Mar-2026 (Tuesday): Prepared for M1 mock examination.
+
+18-Mar-2026 (Wednesday): Attended M1 mock exam and noted mentor feedback for improvement.
+
+19-Mar-2026 (Thursday): Began development of Employee Payroll application and implemented UC1 to UC3 in the "Employeepayrollapp-Spring" repository.
+
+20-Mar-2026 (Friday): Absent but continued Employee Payroll application development and implemented UC4 to UC6.
+
+21-Mar-2026 (Saturday): Extended Employee Payroll application by completing UC7 to UC9.
+
+23-Mar-2026 (Monday): Prepared for M1 main examination.
+
+24-Mar-2026 (Tuesday): Attended M1 examination.
+
+25-Mar-2026 (Wednesday): Initiated Address Book application and implemented UC1 to UC3 in the "AddressBook-Spring" repository.
+
+26-Mar-2026 (Thursday): Continued Address Book application development and implemented UC4 to UC8.
+
+27-Mar-2026 (Friday): Completed UC9 to UC12 for the Address Book application and updated the repository.
