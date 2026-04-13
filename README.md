@@ -163,3 +163,31 @@
 26-Mar-2026 (Thursday): Continued Address Book application development and implemented UC4 to UC8.
 
 27-Mar-2026 (Friday): Completed UC9 to UC12 for the Address Book application and updated the repository.
+
+28-Mar-2026 (Saturday): Attended PowerSkill session.
+
+30-Mar-2026 (Monday): Worked from home due to Mahavir Jayanti; completed UC15 in Quantity Measurement application and pushed updates to "QuantityMeasurementApp" repository.
+
+31-Mar-2026 (Tuesday): Learned Spring Security.
+
+01-Apr-2026 (Wednesday): Completed Fundoo Notes Part 1 and pushed to "FundooNotes-Spring" repository.
+
+02-Apr-2026 (Thursday): Completed Fundoo Notes Part 2.
+
+03-Apr-2026 (Friday): Worked from home due to Good Friday.
+
+04-Apr-2026 (Saturday): Attended PowerSkill session.
+
+06-Apr-2026 (Monday): Implemented UC16 – Database integration using JDBC for Quantity Measurement persistence.
+
+07-Apr-2026 (Tuesday): Implemented UC17 – Spring framework integration using REST services and JPA for Quantity Measurement.
+
+08-Apr-2026 (Wednesday): Learned JMS (Java Message Service).
+
+09-Apr-2026 (Thursday): Learned JMS (Java Message Service) and Redis integration with Spring Boot.
+
+10-Apr-2026 (Friday): Updated and pushed README files for all repositories.
+
+11-Apr-2026 (Saturday): On leave due to third project review.
+
+13-Apr-2026 (Monday): Learned basics of RabbitMQ, Spring Batch with Excel, and Microservices.
